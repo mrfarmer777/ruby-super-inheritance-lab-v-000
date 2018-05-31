@@ -11,3 +11,4 @@ class ChattyStudent<Student
     super
     10.times{"Pick me!"}
   end
+end
